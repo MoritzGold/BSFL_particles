@@ -209,7 +209,7 @@ rm(list = ls())
     ),
       
       labels=c("no_color"="No ingestion","AMG"="AMG: Anterior midgut",
-                               "MMG"="MMG: Midle midgut","PMG1"="PMG1: 1st part posterior midgut",
+                               "MMG"="MMG: Middle midgut","PMG1"="PMG1: 1st part posterior midgut",
                                "PMG2"="PMG2: 2nd part posterior midgut","HG"="HG: Hindgut")) +
     
     theme_bw() +
@@ -456,7 +456,7 @@ rm(list = ls())
       ),
       
       labels=c("no_color"="No ingestion","AMG"="AMG: Anterior midgut",
-               "MMG"="MMG: Midle midgut","PMG1"="PMG1: 1st part posterior midgut",
+               "MMG"="MMG: Middle midgut","PMG1"="PMG1: 1st part posterior midgut",
                "PMG2"="PMG2: 2nd part posterior midgut","HG"="HG: Hindgut")) +
       
       
